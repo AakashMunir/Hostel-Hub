@@ -1,0 +1,150 @@
+﻿<!--A Design by W3layouts
+Author: W3layout
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Material Login Form a Responsive Widget Template :: w3layouts</title>
+    <!-- meta tags -->
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="keywords" content="Art Sign Up Form Responsive Widget, Audio and Video players, Login Form Web Template, Flat Pricing Tables, Flat Drop-Downs, Sign-Up Web Templates,
+		Flat Web Templates, Login Sign-up Responsive Web Template, Smartphone Compatible Web Template, Free Web Designs for Nokia, Samsung, LG, Sony Ericsson, Motorola Web Design" />
+    <!-- /meta tags -->
+    <!-- custom style sheet -->
+    <link href="~/smartlogin/css/style.css" rel="stylesheet" type="text/css" />
+    <!-- /custom style sheet -->
+    <!-- fontawesome css -->
+    <link href="~/smartlogin/css/fontawesome-all.css" rel="stylesheet" />
+    <!-- /fontawesome css -->
+    <!-- google fonts-->
+    <link href="//fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
+          rel="stylesheet">
+    <!-- /google fonts-->
+
+</head>
+
+
+<body>
+    @model FYP.Models.tbl_User_info
+    <h1>Create User Form</h1>
+    <div class=" w3l-login-form">
+        <h2>Create User Here</h2>
+        <form action="#" method="POST">
+
+
+            @using (Html.BeginForm("Create", "AdminRegister", FormMethod.Post, new { enctype = "multipart/form-data" }))
+            {
+                @Html.AntiForgeryToken()
+
+            <div class="form-horizontal">
+
+                <hr />
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                <div class=" w3l-form-group">
+                    <label>User Image:</label>
+                    <div class="group">
+                        @*@Html.EditorFor(model => model.U_Image, new { htmlAttributes = new { @class = "form-control" } })*@
+                        <input type="file" name="files" id="files" multiple style="width:100%">
+                        @Html.ValidationMessageFor(model => model.U_Image, "", new { @class = "text-danger" })
+
+                    </div>
+                </div>
+
+
+                <div class=" w3l-form-group">
+                    <label>User Name:</label>
+                    <div class="group">
+                        @Html.EditorFor(model => model.U_Name, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.U_Name, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class=" w3l-form-group">
+                    <label>Gender:</label>
+                    <div class="group">
+                        @Html.EditorFor(model => model.U_Gender, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.U_Gender, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class=" w3l-form-group">
+                    <label>Mobile:</label>
+                    <div class="group">
+                        @Html.EditorFor(model => model.U_Mobile, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.U_Mobile, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class=" w3l-form-group">
+                    <label>Email:</label>
+                    <div class="group">
+                        @Html.EditorFor(model => model.U_Email, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.U_Email, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class=" w3l-form-group">
+                    <label>Password:</label>
+                    <div class="group">
+                        @Html.EditorFor(model => model.U_Password, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.U_Password, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class=" w3l-form-group">
+                    <label>CNIC:</label>
+                    <div class="group">
+                        @Html.EditorFor(model => model.U_CNIC, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.U_CNIC, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class=" w3l-form-group">
+                    <label>User Category:</label>
+                    <div class="group">
+                        @*@Html.DropDownList("C_Id", null, htmlAttributes: new { @class = "form-control" })*@
+
+                        @Html.DropDownListFor(m=>m.C_Id,new List<SelectListItem>
+            {
+            new SelectListItem{Text="Admin",Value="1"},
+            new SelectListItem{Text="Owner",Value="2"},
+            new SelectListItem{Text="Visitor",Value="3"}
+            },"--select user--",new { @class = "from-control"})
+
+                        @Html.ValidationMessageFor(model => model.C_Id, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="w3l-form-group">
+
+                    <div class="col-md-10">
+                        @if (ViewBag.msg != null)
+                        {
+                            <label>@ViewBag.msg</label>
+                        }
+                    </div>
+                </div>
+
+
+               
+
+                <button type="submit">Create</button>
+
+
+
+               
+            </div>
+            }
+        </form>
+        
+    </div>
+    
+
+</body>
+
+</html>

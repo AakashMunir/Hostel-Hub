@@ -1,0 +1,262 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="tbl_Hostel_Booking">
+    <Key>
+      <PropertyRef Name="B_Id" />
+    </Key>
+    <Property Name="B_Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="U_Id" Type="int" />
+    <Property Name="H_Id" Type="int" />
+    <Property Name="B_Date" Type="date" />
+    <Property Name="B_Email" Type="varchar(max)" />
+  </EntityType>
+  <EntityType Name="tbl_Hostel_Category">
+    <Key>
+      <PropertyRef Name="HC_Id" />
+    </Key>
+    <Property Name="HC_Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="HC_Name" Type="varchar(max)" />
+  </EntityType>
+  <EntityType Name="tbl_Hostel_Detail">
+    <Key>
+      <PropertyRef Name="H_Id" />
+    </Key>
+    <Property Name="H_Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="H_Name" Type="varchar(max)" />
+    <Property Name="H_Address" Type="varchar(max)" />
+    <Property Name="H_Mobile" Type="varchar(max)" />
+    <Property Name="H_Description" Type="varchar(max)" />
+    <Property Name="H_Near_University" Type="varchar(max)" />
+    <Property Name="H_Area" Type="varchar(max)" />
+    <Property Name="H_Total_Room" Type="int" />
+    <Property Name="H_Avail_Room" Type="int" />
+    <Property Name="H_Security" Type="int" />
+    <Property Name="H_Wifi_Charges" Type="int" />
+    <Property Name="HC_Id" Type="int" />
+    <Property Name="HF_Id" Type="int" />
+    <Property Name="HS_Id" Type="int" />
+    <Property Name="U_Id" Type="int" />
+  </EntityType>
+  <EntityType Name="tbl_Hostel_Facility">
+    <Key>
+      <PropertyRef Name="HF_Id" />
+    </Key>
+    <Property Name="HF_Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="HF_Name" Type="varchar(max)" />
+  </EntityType>
+  <EntityType Name="tbl_Hostel_Images">
+    <Key>
+      <PropertyRef Name="I_Id" />
+    </Key>
+    <Property Name="I_Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="I_Name" Type="varchar(max)" />
+    <Property Name="H_Id" Type="int" />
+  </EntityType>
+  <EntityType Name="tbl_Hostel_Status">
+    <Key>
+      <PropertyRef Name="HS_Id" />
+    </Key>
+    <Property Name="HS_Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="HS_Name" Type="varchar(max)" />
+  </EntityType>
+  <EntityType Name="tbl_Rating">
+    <Key>
+      <PropertyRef Name="R_Id" />
+    </Key>
+    <Property Name="R_Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="R_Name" Type="int" />
+    <Property Name="H_Id" Type="int" />
+  </EntityType>
+  <EntityType Name="tbl_User_Category">
+    <Key>
+      <PropertyRef Name="C_Id" />
+    </Key>
+    <Property Name="C_Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="C_Name" Type="varchar(max)" />
+  </EntityType>
+  <EntityType Name="tbl_User_info">
+    <Key>
+      <PropertyRef Name="U_Id" />
+    </Key>
+    <Property Name="U_Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="U_Image" Type="varchar(max)" />
+    <Property Name="U_Name" Type="varchar(max)" />
+    <Property Name="U_Gender" Type="varchar(max)" />
+    <Property Name="U_Mobile" Type="varchar(max)" />
+    <Property Name="U_Email" Type="varchar(max)" />
+    <Property Name="U_Password" Type="varchar(max)" />
+    <Property Name="U_CNIC" Type="varchar(max)" />
+    <Property Name="C_Id" Type="int" />
+  </EntityType>
+  <Association Name="FK_tbl_Hostel_Booking_tbl_Hostel_Detail">
+    <End Role="tbl_Hostel_Detail" Type="Self.tbl_Hostel_Detail" Multiplicity="0..1" />
+    <End Role="tbl_Hostel_Booking" Type="Self.tbl_Hostel_Booking" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tbl_Hostel_Detail">
+        <PropertyRef Name="H_Id" />
+      </Principal>
+      <Dependent Role="tbl_Hostel_Booking">
+        <PropertyRef Name="H_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tbl_Hostel_Booking_tbl_User_info">
+    <End Role="tbl_User_info" Type="Self.tbl_User_info" Multiplicity="0..1" />
+    <End Role="tbl_Hostel_Booking" Type="Self.tbl_Hostel_Booking" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tbl_User_info">
+        <PropertyRef Name="U_Id" />
+      </Principal>
+      <Dependent Role="tbl_Hostel_Booking">
+        <PropertyRef Name="U_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tbl_Hostel_Detail_tbl_Hostel_Category">
+    <End Role="tbl_Hostel_Category" Type="Self.tbl_Hostel_Category" Multiplicity="0..1" />
+    <End Role="tbl_Hostel_Detail" Type="Self.tbl_Hostel_Detail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tbl_Hostel_Category">
+        <PropertyRef Name="HC_Id" />
+      </Principal>
+      <Dependent Role="tbl_Hostel_Detail">
+        <PropertyRef Name="HC_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tbl_Hostel_Detail_tbl_Hostel_Facility">
+    <End Role="tbl_Hostel_Facility" Type="Self.tbl_Hostel_Facility" Multiplicity="0..1" />
+    <End Role="tbl_Hostel_Detail" Type="Self.tbl_Hostel_Detail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tbl_Hostel_Facility">
+        <PropertyRef Name="HF_Id" />
+      </Principal>
+      <Dependent Role="tbl_Hostel_Detail">
+        <PropertyRef Name="HF_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tbl_Hostel_Detail_tbl_Hostel_Status">
+    <End Role="tbl_Hostel_Status" Type="Self.tbl_Hostel_Status" Multiplicity="0..1" />
+    <End Role="tbl_Hostel_Detail" Type="Self.tbl_Hostel_Detail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tbl_Hostel_Status">
+        <PropertyRef Name="HS_Id" />
+      </Principal>
+      <Dependent Role="tbl_Hostel_Detail">
+        <PropertyRef Name="HS_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tbl_Hostel_Detail_tbl_User_info">
+    <End Role="tbl_User_info" Type="Self.tbl_User_info" Multiplicity="0..1" />
+    <End Role="tbl_Hostel_Detail" Type="Self.tbl_Hostel_Detail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tbl_User_info">
+        <PropertyRef Name="U_Id" />
+      </Principal>
+      <Dependent Role="tbl_Hostel_Detail">
+        <PropertyRef Name="U_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tbl_Hostel_Images_tbl_Hostel_Detail">
+    <End Role="tbl_Hostel_Detail" Type="Self.tbl_Hostel_Detail" Multiplicity="0..1" />
+    <End Role="tbl_Hostel_Images" Type="Self.tbl_Hostel_Images" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tbl_Hostel_Detail">
+        <PropertyRef Name="H_Id" />
+      </Principal>
+      <Dependent Role="tbl_Hostel_Images">
+        <PropertyRef Name="H_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tbl_Rating_tbl_Hostel_Detail">
+    <End Role="tbl_Hostel_Detail" Type="Self.tbl_Hostel_Detail" Multiplicity="0..1" />
+    <End Role="tbl_Rating" Type="Self.tbl_Rating" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tbl_Hostel_Detail">
+        <PropertyRef Name="H_Id" />
+      </Principal>
+      <Dependent Role="tbl_Rating">
+        <PropertyRef Name="H_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tbl_Rating_tbl_Rating">
+    <End Role="tbl_Rating" Type="Self.tbl_Rating" Multiplicity="1" />
+    <End Role="tbl_Rating1" Type="Self.tbl_Rating" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="tbl_Rating">
+        <PropertyRef Name="R_Id" />
+      </Principal>
+      <Dependent Role="tbl_Rating1">
+        <PropertyRef Name="R_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tbl_User_info_tbl_User_Category">
+    <End Role="tbl_User_Category" Type="Self.tbl_User_Category" Multiplicity="0..1" />
+    <End Role="tbl_User_info" Type="Self.tbl_User_info" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tbl_User_Category">
+        <PropertyRef Name="C_Id" />
+      </Principal>
+      <Dependent Role="tbl_User_info">
+        <PropertyRef Name="C_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="ModelStoreContainer">
+    <EntitySet Name="tbl_Hostel_Booking" EntityType="Self.tbl_Hostel_Booking" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tbl_Hostel_Category" EntityType="Self.tbl_Hostel_Category" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tbl_Hostel_Detail" EntityType="Self.tbl_Hostel_Detail" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tbl_Hostel_Facility" EntityType="Self.tbl_Hostel_Facility" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tbl_Hostel_Images" EntityType="Self.tbl_Hostel_Images" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tbl_Hostel_Status" EntityType="Self.tbl_Hostel_Status" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tbl_Rating" EntityType="Self.tbl_Rating" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tbl_User_Category" EntityType="Self.tbl_User_Category" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tbl_User_info" EntityType="Self.tbl_User_info" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_tbl_Hostel_Booking_tbl_Hostel_Detail" Association="Self.FK_tbl_Hostel_Booking_tbl_Hostel_Detail">
+      <End Role="tbl_Hostel_Detail" EntitySet="tbl_Hostel_Detail" />
+      <End Role="tbl_Hostel_Booking" EntitySet="tbl_Hostel_Booking" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tbl_Hostel_Booking_tbl_User_info" Association="Self.FK_tbl_Hostel_Booking_tbl_User_info">
+      <End Role="tbl_User_info" EntitySet="tbl_User_info" />
+      <End Role="tbl_Hostel_Booking" EntitySet="tbl_Hostel_Booking" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tbl_Hostel_Detail_tbl_Hostel_Category" Association="Self.FK_tbl_Hostel_Detail_tbl_Hostel_Category">
+      <End Role="tbl_Hostel_Category" EntitySet="tbl_Hostel_Category" />
+      <End Role="tbl_Hostel_Detail" EntitySet="tbl_Hostel_Detail" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tbl_Hostel_Detail_tbl_Hostel_Facility" Association="Self.FK_tbl_Hostel_Detail_tbl_Hostel_Facility">
+      <End Role="tbl_Hostel_Facility" EntitySet="tbl_Hostel_Facility" />
+      <End Role="tbl_Hostel_Detail" EntitySet="tbl_Hostel_Detail" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tbl_Hostel_Detail_tbl_Hostel_Status" Association="Self.FK_tbl_Hostel_Detail_tbl_Hostel_Status">
+      <End Role="tbl_Hostel_Status" EntitySet="tbl_Hostel_Status" />
+      <End Role="tbl_Hostel_Detail" EntitySet="tbl_Hostel_Detail" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tbl_Hostel_Detail_tbl_User_info" Association="Self.FK_tbl_Hostel_Detail_tbl_User_info">
+      <End Role="tbl_User_info" EntitySet="tbl_User_info" />
+      <End Role="tbl_Hostel_Detail" EntitySet="tbl_Hostel_Detail" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tbl_Hostel_Images_tbl_Hostel_Detail" Association="Self.FK_tbl_Hostel_Images_tbl_Hostel_Detail">
+      <End Role="tbl_Hostel_Detail" EntitySet="tbl_Hostel_Detail" />
+      <End Role="tbl_Hostel_Images" EntitySet="tbl_Hostel_Images" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tbl_Rating_tbl_Hostel_Detail" Association="Self.FK_tbl_Rating_tbl_Hostel_Detail">
+      <End Role="tbl_Hostel_Detail" EntitySet="tbl_Hostel_Detail" />
+      <End Role="tbl_Rating" EntitySet="tbl_Rating" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tbl_Rating_tbl_Rating" Association="Self.FK_tbl_Rating_tbl_Rating">
+      <End Role="tbl_Rating" EntitySet="tbl_Rating" />
+      <End Role="tbl_Rating1" EntitySet="tbl_Rating" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tbl_User_info_tbl_User_Category" Association="Self.FK_tbl_User_info_tbl_User_Category">
+      <End Role="tbl_User_Category" EntitySet="tbl_User_Category" />
+      <End Role="tbl_User_info" EntitySet="tbl_User_info" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

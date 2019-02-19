@@ -1,0 +1,118 @@
+﻿@model IEnumerable<FYP.Models.tbl_Hostel_Images>
+
+@{
+    ViewBag.Title = "Details";
+}
+<div class="container">
+    <h2>Hostel Details</h2>
+    <div>
+
+        <div class="row">
+
+            @foreach (var item in Model)
+            {
+                <div class="col-md-3">
+
+                    <img src="~/images/@Html.DisplayFor(modelItem => item.I_Name)" width="250" height="250" style="border-radius:8px;" />
+
+                </div>
+            }
+            <hr />
+        </div>
+        @foreach (var item in Model)
+        {
+            <dt>
+                @Html.DisplayNameFor(model => model.tbl_Hostel_Detail.H_Name)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(modelItem => item.tbl_Hostel_Detail.H_Name)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.tbl_Hostel_Detail.H_Address)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(modelItem => item.tbl_Hostel_Detail.H_Address)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.tbl_Hostel_Detail.H_Mobile)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(modelItem => item.tbl_Hostel_Detail.H_Mobile)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.tbl_Hostel_Detail.H_Description)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(modelItem => item.tbl_Hostel_Detail.H_Description)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.tbl_Hostel_Detail.H_Near_University)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(modelItem => item.tbl_Hostel_Detail.H_Near_University)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.tbl_Hostel_Detail.H_Area)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(modelItem => item.tbl_Hostel_Detail.H_Area)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.tbl_Hostel_Detail.H_Total_Room)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(modelItem => item.tbl_Hostel_Detail.H_Total_Room)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.tbl_Hostel_Detail.H_Avail_Room)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(modelItem => item.tbl_Hostel_Detail.H_Avail_Room)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.tbl_Hostel_Detail.H_Security)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(modelItem => item.tbl_Hostel_Detail.H_Security)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.tbl_Hostel_Detail.H_Wifi_Charges)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(modelItem => item.tbl_Hostel_Detail.H_Wifi_Charges)
+            </dd>
+
+
+
+
+            <button type="button" onclick="location.href='@Url.Action("Create", "Rating",new { id = item.H_Id})'" style="border-radius:8px;   color:black; border:2px solid #008CBA; background-color:white">Hostel Rating</button>
+            <button type="button" onclick="location.href='@Url.Action("Create", "HostelBooking", new { id = item.H_Id })'" style="border-radius:8px;   color:black; border:2px solid #008CBA; background-color:white">Hostel Booking</button>
+
+            break;
+
+        }
+
+    </div>
+    
+</div>
+
+

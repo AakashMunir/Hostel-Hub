@@ -1,0 +1,45 @@
+﻿@model IPagedList<FYP.Models.tbl_User_info>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="container">
+    <h2>User's Details's</h2>
+    @using PagedList.Mvc;
+    @using PagedList;
+
+    @using (Html.BeginForm("Index", "AdminRegister", FormMethod.Get))
+    {
+        @Html.AntiForgeryToken()
+
+        <b>Search Option :  </b>@Html.RadioButton("option", "C_Id")<tex>User Category  </tex>
+
+        @Html.TextBox("Search")
+        <input type="submit" name="Submit" value="Search" />
+    }
+        <p>
+            <button type="button" onclick="location.href='@Url.Action("Create", "UserRegister")'" style="border-radius:8px;   color:black; border:2px solid #008CBA; background-color:white">Create User</button>
+            @*@Html.ActionLink("Create New", "Create")*@
+        </p>
+    
+    <div class="row">
+        @foreach(var item in Model)
+        {
+        <div class="col-md-4">
+            <img src="~/images/@Html.DisplayFor(modelItem => item.U_Image)" onclick="location.href='@Url.Action("Details", "AdminRegister", new { id = item.U_Id })'" width="250" height="250" style="border-radius:8px;" />
+            <h3>@Html.DisplayFor(modelItem => item.U_Name)</h3>
+
+            <button type="button" onclick="location.href='@Url.Action("Edit", "AdminRegister", new { id = item.U_Id })'" style="border-radius:8px;   color:black; border:2px solid #008CBA; background-color:white">Edit </button>
+            <button type="button" onclick="location.href='@Url.Action("Delete", "AdminRegister", new { id = item.U_Id })'" style="border-radius:8px;   color:black; border:2px solid #008CBA; background-color:white">Delete </button>
+
+        </div>
+        }
+    </div>
+
+        
+
+    
+    @Html.PagedListPager(Model, i => Url.Action("Index", "AdminRegister", new { i, search = Request.QueryString["search"] }))
+
+</div>

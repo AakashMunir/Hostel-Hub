@@ -1,0 +1,37 @@
+﻿@model IEnumerable<FYP.Models.tbl_User_info>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+
+
+<div class="container">
+    <h2>User Profile</h2>
+    <table class="table">
+
+
+        @foreach (var item in Model)
+        {
+
+
+            <div class="row">
+                <div class="col-sm-12">
+
+                    <img src="~/images/@Html.DisplayFor(modelItem => item.U_Image)" onclick="location.href='@Url.Action("Details", "UserProfile" , new { id = item.U_Id } )'" width="200" height="200" style="border-radius:8px;" />
+                    @*@Html.DisplayFor(modelItem => item.U_Image)*@
+
+
+                    <h3>@Html.DisplayFor(modelItem => item.U_Name)</h3>
+
+                    <button type="button" onclick="location.href='@Url.Action("Edit", "UserProfile" , new { id = item.U_Id } )'" style="border-radius:8px;   color:black; border:2px solid #008CBA; background-color:white">Edit</button>
+
+                </div>
+            </div>
+
+
+        }
+
+    </table>
+</div>
+

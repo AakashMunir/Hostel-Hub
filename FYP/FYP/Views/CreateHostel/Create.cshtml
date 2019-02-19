@@ -1,0 +1,196 @@
+﻿<!--A Design by W3layouts
+Author: W3layout
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Material Login Form a Responsive Widget Template :: w3layouts</title>
+    <!-- meta tags -->
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="keywords" content="Art Sign Up Form Responsive Widget, Audio and Video players, Login Form Web Template, Flat Pricing Tables, Flat Drop-Downs, Sign-Up Web Templates,
+		Flat Web Templates, Login Sign-up Responsive Web Template, Smartphone Compatible Web Template, Free Web Designs for Nokia, Samsung, LG, Sony Ericsson, Motorola Web Design" />
+    <!-- /meta tags -->
+    <!-- custom style sheet -->
+    <link href="~/smartlogin/css/style.css" rel="stylesheet" type="text/css" />
+    <!-- /custom style sheet -->
+    <!-- fontawesome css -->
+    <link href="~/smartlogin/css/fontawesome-all.css" rel="stylesheet" />
+    <!-- /fontawesome css -->
+    <!-- google fonts-->
+    <link href="//fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
+          rel="stylesheet">
+    <!-- /google fonts-->
+
+</head>
+
+
+<body>
+    @model FYP.Models.tbl_Hostel_Detail
+    <h1>Hostel Creation Form</h1>
+    <div class=" w3l-login-form">
+        <h2>Create Hostel Here</h2>
+        <form action="#" method="POST">
+
+            @using (Html.BeginForm("Create", "CreateHostel", FormMethod.Post))
+            {
+                @Html.AntiForgeryToken()
+
+            <div class="form-horizontal">
+
+                <hr />
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                <div class="w3l-form-group">
+                    <label>Hostel Name:</label>
+                    <div class="group">
+                        @Html.EditorFor(model => model.H_Name, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.H_Name, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="w3l-form-group">
+                    <label>Address:</label>
+                    <div class="group">
+                        @Html.EditorFor(model => model.H_Address, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.H_Address, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="w3l-form-group">
+                    <label>Mobile:</label>
+                    <div class="group">
+                        @Html.EditorFor(model => model.H_Mobile, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.H_Mobile, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="w3l-form-group">
+                    <label>Description:</label>
+                    <div class="group">
+                        @Html.EditorFor(model => model.H_Description, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.H_Description, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="w3l-form-group">
+                    <label>Nearest University:</label>
+                    <div class="group">
+                        @Html.EditorFor(model => model.H_Near_University, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.H_Near_University, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="w3l-form-group">
+                    <label>Nearest Area:</label>
+                    <div class="group">
+                        @Html.EditorFor(model => model.H_Area, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.H_Area, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="w3l-form-group">
+                    <label>Total Room:</label>
+                    <div class="group">
+                        @Html.EditorFor(model => model.H_Total_Room, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.H_Total_Room, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="w3l-form-group">
+                    <label>Avail Room:</label>
+                    <div class="group">
+                        @Html.EditorFor(model => model.H_Avail_Room, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.H_Avail_Room, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="w3l-form-group">
+                    <label>Security :</label>
+                    <div class="group">
+                        @Html.EditorFor(model => model.H_Security, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.H_Security, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="w3l-form-group">
+                    <label>Wifi Charges:</label>
+                    <div class="group">
+                        @Html.EditorFor(model => model.H_Wifi_Charges, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.H_Wifi_Charges, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="w3l-form-group">
+                    <label>Hostel Category:</label>
+                    <div class="group">
+                        @*@Html.DropDownList("HC_Id", null, htmlAttributes: new { @class = "form-control" })*@
+
+                        @Html.DropDownListFor(m=>m.HC_Id,new List<SelectListItem>
+            {
+            new SelectListItem{Text="Boys",Value="1"},
+            new SelectListItem{Text="Girls",Value="2"}
+            },"--Select Hostel Category--",new { @class = "from-control"})
+
+                        @Html.ValidationMessageFor(model => model.HC_Id, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="w3l-form-group">
+                    <label>Hostel Facility:</label>
+                    @*@Html.LabelFor(model => model.HF_Id, "Hostel Facility", htmlAttributes: new { @class = "control-label col-md-2" })*@
+                    <div class="group">
+                        @*@Html.DropDownList("HF_Id", null, htmlAttributes: new { @class = "form-control" })*@
+
+                        @Html.DropDownListFor(m=>m.HF_Id,new List<SelectListItem>
+            {
+            new SelectListItem{Text="AC",Value="1"},
+            new SelectListItem{Text="Non AC",Value="2"}
+            },"--Select Hostel Facilities--",new { @class = "from-control"})
+
+                        @Html.ValidationMessageFor(model => model.HF_Id, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+
+
+                <div class="w3l-form-group">
+                    <label>User ID:</label>
+                    @*@Html.LabelFor(model => model.U_Id, "User Category", htmlAttributes: new { @class = "control-label col-md-2" })*@
+                    <div class="group">
+                        @Html.EditorFor(model => model.U_Id, new { htmlAttributes = new { @class = "form-control" } })
+
+                        @*@Html.DropDownListFor(m=>m.U_Id,new List<SelectListItem>
+            {
+            new SelectListItem{Text="Amin",Value="1"},
+            new SelectListItem{Text="Owner",Value="2"},
+            },"--Select Hostel Status--",new { @class = "from-control"})*@
+
+                        @Html.ValidationMessageFor(model => model.U_Id, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="w3l-form-group">
+
+                    <div class="col-md-10">
+                        @if (ViewBag.msg != null)
+                        {
+                            <label>@ViewBag.msg</label>
+                        }
+                    </div>
+                </div>
+
+                <button type="submit">Create</button>
+            </div>
+            }
+        </form>
+        
+    </div>
+    
+
+</body>
+
+</html>

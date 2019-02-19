@@ -1,0 +1,87 @@
+﻿@model FYP.Models.tbl_User_info
+
+@{
+    ViewBag.Title = "Details";
+}
+<div class="container" style="font-size:25px">
+    <h2>User Details</h2>
+
+    <div>
+
+        <hr />
+        <dl class="dl-horizontal">
+
+            <dt>
+                @Html.DisplayNameFor(model => model.U_Image)
+            </dt>
+
+            <dd>
+                <img src="~/images/@Html.DisplayFor(model => model.U_Image)" width="150" height="150" style="border-radius:8px;" />
+
+            </dd>
+
+
+            <dt>
+                @Html.DisplayNameFor(model => model.U_Name)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.U_Name)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.U_Gender)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.U_Gender)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.U_Mobile)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.U_Mobile)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.U_Email)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.U_Email)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.U_Password)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.U_Password)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.U_CNIC)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.U_CNIC)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.tbl_User_Category.C_Name)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.tbl_User_Category.C_Name)
+            </dd>
+
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.U_Id }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+</div>
+

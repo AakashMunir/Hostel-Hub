@@ -1,0 +1,50 @@
+﻿@model IEnumerable<FYP.Models.tbl_Hostel_Booking>
+
+@{
+    ViewBag.Title = "Index";
+}
+<div class="container">
+    <h2>Hostel Booking Details</h2>
+
+    @*<p>
+        @Html.ActionLink("Create New", "Create")
+    </p>*@
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.B_Date)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.B_Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.tbl_Hostel_Detail.H_Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.tbl_User_info.U_Name)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.B_Date)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.B_Email)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.tbl_Hostel_Detail.H_Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.tbl_User_info.U_Name)
+                </td>
+
+            </tr>
+        }
+
+    </table>
+
+</div>

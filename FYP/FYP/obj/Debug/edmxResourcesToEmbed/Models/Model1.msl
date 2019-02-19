@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ModelStoreContainer" CdmEntityContainer="Hostel_HubEntities2">
+    <EntitySetMapping Name="tbl_Hostel_Booking">
+      <EntityTypeMapping TypeName="Model.tbl_Hostel_Booking">
+        <MappingFragment StoreEntitySet="tbl_Hostel_Booking">
+          <ScalarProperty Name="B_Id" ColumnName="B_Id" />
+          <ScalarProperty Name="U_Id" ColumnName="U_Id" />
+          <ScalarProperty Name="H_Id" ColumnName="H_Id" />
+          <ScalarProperty Name="B_Date" ColumnName="B_Date" />
+          <ScalarProperty Name="B_Email" ColumnName="B_Email" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbl_Hostel_Category">
+      <EntityTypeMapping TypeName="Model.tbl_Hostel_Category">
+        <MappingFragment StoreEntitySet="tbl_Hostel_Category">
+          <ScalarProperty Name="HC_Id" ColumnName="HC_Id" />
+          <ScalarProperty Name="HC_Name" ColumnName="HC_Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbl_Hostel_Detail">
+      <EntityTypeMapping TypeName="Model.tbl_Hostel_Detail">
+        <MappingFragment StoreEntitySet="tbl_Hostel_Detail">
+          <ScalarProperty Name="H_Id" ColumnName="H_Id" />
+          <ScalarProperty Name="H_Name" ColumnName="H_Name" />
+          <ScalarProperty Name="H_Address" ColumnName="H_Address" />
+          <ScalarProperty Name="H_Mobile" ColumnName="H_Mobile" />
+          <ScalarProperty Name="H_Description" ColumnName="H_Description" />
+          <ScalarProperty Name="H_Near_University" ColumnName="H_Near_University" />
+          <ScalarProperty Name="H_Area" ColumnName="H_Area" />
+          <ScalarProperty Name="H_Total_Room" ColumnName="H_Total_Room" />
+          <ScalarProperty Name="H_Avail_Room" ColumnName="H_Avail_Room" />
+          <ScalarProperty Name="H_Security" ColumnName="H_Security" />
+          <ScalarProperty Name="H_Wifi_Charges" ColumnName="H_Wifi_Charges" />
+          <ScalarProperty Name="HC_Id" ColumnName="HC_Id" />
+          <ScalarProperty Name="HF_Id" ColumnName="HF_Id" />
+          <ScalarProperty Name="HS_Id" ColumnName="HS_Id" />
+          <ScalarProperty Name="U_Id" ColumnName="U_Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbl_Hostel_Facility">
+      <EntityTypeMapping TypeName="Model.tbl_Hostel_Facility">
+        <MappingFragment StoreEntitySet="tbl_Hostel_Facility">
+          <ScalarProperty Name="HF_Id" ColumnName="HF_Id" />
+          <ScalarProperty Name="HF_Name" ColumnName="HF_Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbl_Hostel_Images">
+      <EntityTypeMapping TypeName="Model.tbl_Hostel_Images">
+        <MappingFragment StoreEntitySet="tbl_Hostel_Images">
+          <ScalarProperty Name="I_Id" ColumnName="I_Id" />
+          <ScalarProperty Name="I_Name" ColumnName="I_Name" />
+          <ScalarProperty Name="H_Id" ColumnName="H_Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbl_Hostel_Status">
+      <EntityTypeMapping TypeName="Model.tbl_Hostel_Status">
+        <MappingFragment StoreEntitySet="tbl_Hostel_Status">
+          <ScalarProperty Name="HS_Id" ColumnName="HS_Id" />
+          <ScalarProperty Name="HS_Name" ColumnName="HS_Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbl_Rating">
+      <EntityTypeMapping TypeName="Model.tbl_Rating">
+        <MappingFragment StoreEntitySet="tbl_Rating">
+          <ScalarProperty Name="R_Id" ColumnName="R_Id" />
+          <ScalarProperty Name="R_Name" ColumnName="R_Name" />
+          <ScalarProperty Name="H_Id" ColumnName="H_Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbl_User_Category">
+      <EntityTypeMapping TypeName="Model.tbl_User_Category">
+        <MappingFragment StoreEntitySet="tbl_User_Category">
+          <ScalarProperty Name="C_Id" ColumnName="C_Id" />
+          <ScalarProperty Name="C_Name" ColumnName="C_Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbl_User_info">
+      <EntityTypeMapping TypeName="Model.tbl_User_info">
+        <MappingFragment StoreEntitySet="tbl_User_info">
+          <ScalarProperty Name="U_Id" ColumnName="U_Id" />
+          <ScalarProperty Name="U_Image" ColumnName="U_Image" />
+          <ScalarProperty Name="U_Name" ColumnName="U_Name" />
+          <ScalarProperty Name="U_Gender" ColumnName="U_Gender" />
+          <ScalarProperty Name="U_Mobile" ColumnName="U_Mobile" />
+          <ScalarProperty Name="U_Email" ColumnName="U_Email" />
+          <ScalarProperty Name="U_Password" ColumnName="U_Password" />
+          <ScalarProperty Name="U_CNIC" ColumnName="U_CNIC" />
+          <ScalarProperty Name="C_Id" ColumnName="C_Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

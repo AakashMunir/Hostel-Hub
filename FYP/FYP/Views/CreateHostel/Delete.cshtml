@@ -1,0 +1,130 @@
+﻿@model FYP.Models.tbl_Hostel_Detail
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete Hostel</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.H_Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.H_Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.H_Address)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.H_Address)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.H_Mobile)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.H_Mobile)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.H_Description)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.H_Description)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.H_Near_University)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.H_Near_University)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.H_Area)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.H_Area)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.H_Total_Room)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.H_Total_Room)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.H_Avail_Room)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.H_Avail_Room)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.H_Security)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.H_Security)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.H_Wifi_Charges)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.H_Wifi_Charges)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.tbl_Hostel_Category.HC_Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.tbl_Hostel_Category.HC_Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.tbl_Hostel_Facility.HF_Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.tbl_Hostel_Facility.HF_Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.tbl_Hostel_Status.HS_Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.tbl_Hostel_Status.HS_Name)
+        </dd>
+
+        
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

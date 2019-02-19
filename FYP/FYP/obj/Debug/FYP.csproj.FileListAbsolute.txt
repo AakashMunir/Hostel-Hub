@@ -1,0 +1,858 @@
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\FYP.dll.config
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\FYP.dll
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\FYP.pdb
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\roslyn\csc.exe
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\roslyn\csc.exe.config
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\roslyn\csc.rsp
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\roslyn\csi.exe
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\roslyn\csi.exe.config
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\roslyn\csi.rsp
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\roslyn\System.AppContext.dll
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\roslyn\System.Console.dll
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\roslyn\System.IO.Compression.dll
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\roslyn\System.Security.Claims.dll
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\roslyn\System.ValueTuple.dll
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\roslyn\vbc.exe
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\roslyn\vbc.exe.config
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\roslyn\vbc.rsp
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\roslyn\VBCSCompiler.exe
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\EntityFramework.dll
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\EntityFramework.SqlServer.dll
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\System.Web.Helpers.dll
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\System.Web.Mvc.dll
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\System.Web.Razor.dll
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\System.Web.Webpages.dll
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\System.Web.Webpages.Razor.dll
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\EntityFramework.xml
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\EntityFramework.SqlServer.xml
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\System.Web.Razor.xml
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\System.Web.Webpages.xml
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\System.Web.Webpages.Razor.xml
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\System.Web.Helpers.xml
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\System.Web.Mvc.xml
+C:\Users\Malik Aakash\source\repos\FYP\FYP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Malik Aakash\source\repos\FYP\FYP\obj\Debug\FYP.csprojAssemblyReference.cache
+C:\Users\Malik Aakash\source\repos\FYP\FYP\obj\Debug\FYP.csproj.CoreCompileInputs.cache
+C:\Users\Malik Aakash\source\repos\FYP\FYP\obj\Debug\FYP.csproj.CopyComplete
+C:\Users\Malik Aakash\source\repos\FYP\FYP\obj\Debug\FYP.dll
+C:\Users\Malik Aakash\source\repos\FYP\FYP\obj\Debug\FYP.pdb
+E:\Visual Work 2\repos\FYP\FYP\bin\FYP.dll.config
+E:\Visual Work 2\repos\FYP\FYP\bin\FYP.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\FYP.pdb
+E:\Visual Work 2\repos\FYP\FYP\bin\roslyn\csc.exe
+E:\Visual Work 2\repos\FYP\FYP\bin\roslyn\csc.exe.config
+E:\Visual Work 2\repos\FYP\FYP\bin\roslyn\csc.rsp
+E:\Visual Work 2\repos\FYP\FYP\bin\roslyn\csi.exe
+E:\Visual Work 2\repos\FYP\FYP\bin\roslyn\csi.exe.config
+E:\Visual Work 2\repos\FYP\FYP\bin\roslyn\csi.rsp
+E:\Visual Work 2\repos\FYP\FYP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Visual Work 2\repos\FYP\FYP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Visual Work 2\repos\FYP\FYP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Visual Work 2\repos\FYP\FYP\bin\roslyn\System.AppContext.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\roslyn\System.Collections.Immutable.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\roslyn\System.Console.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\roslyn\System.IO.Compression.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\roslyn\System.IO.FileSystem.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\roslyn\System.IO.Pipes.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\roslyn\System.Reflection.Metadata.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\roslyn\System.Security.AccessControl.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\roslyn\System.Security.Claims.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\roslyn\System.ValueTuple.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\roslyn\System.Xml.XPath.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\roslyn\vbc.exe
+E:\Visual Work 2\repos\FYP\FYP\bin\roslyn\vbc.exe.config
+E:\Visual Work 2\repos\FYP\FYP\bin\roslyn\vbc.rsp
+E:\Visual Work 2\repos\FYP\FYP\bin\roslyn\VBCSCompiler.exe
+E:\Visual Work 2\repos\FYP\FYP\bin\roslyn\VBCSCompiler.exe.config
+E:\Visual Work 2\repos\FYP\FYP\bin\EntityFramework.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\EntityFramework.SqlServer.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.Web.Infrastructure.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Web.Helpers.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Web.Mvc.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Web.Razor.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Web.Webpages.Deployment.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Web.Webpages.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Web.Webpages.Razor.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\EntityFramework.xml
+E:\Visual Work 2\repos\FYP\FYP\bin\EntityFramework.SqlServer.xml
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Web.Razor.xml
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Web.Webpages.xml
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Web.Webpages.Deployment.xml
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Web.Webpages.Razor.xml
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Web.Helpers.xml
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Web.Mvc.xml
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Visual Work 2\repos\FYP\FYP\obj\Debug\FYP.csprojAssemblyReference.cache
+E:\Visual Work 2\repos\FYP\FYP\obj\Debug\FYP.csproj.CoreCompileInputs.cache
+E:\Visual Work 2\repos\FYP\FYP\obj\Debug\FYP.csproj.CopyComplete
+E:\Visual Work 2\repos\FYP\FYP\obj\Debug\FYP.dll
+E:\Visual Work 2\repos\FYP\FYP\obj\Debug\FYP.pdb
+E:\Visual Work 2\repos\FYP\FYP\bin\PagedList.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\PagedList.Mvc.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\PagedList.xml
+E:\Visual Work 2\repos\FYP\FYP\bin\PagedList.Mvc.xml
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.Win32.Primitives.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\netstandard.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.AppContext.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Collections.Concurrent.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Collections.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Collections.NonGeneric.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Collections.Specialized.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.ComponentModel.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.ComponentModel.EventBasedAsync.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.ComponentModel.Primitives.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.ComponentModel.TypeConverter.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Console.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Data.Common.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Diagnostics.Contracts.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Diagnostics.Debug.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Diagnostics.FileVersionInfo.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Diagnostics.Process.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Diagnostics.StackTrace.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Diagnostics.TextWriterTraceListener.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Diagnostics.Tools.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Diagnostics.TraceSource.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Diagnostics.Tracing.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Drawing.Primitives.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Dynamic.Runtime.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Globalization.Calendars.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Globalization.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Globalization.Extensions.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.IO.Compression.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.IO.Compression.ZipFile.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.IO.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.IO.FileSystem.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.IO.FileSystem.DriveInfo.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.IO.FileSystem.Primitives.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.IO.FileSystem.Watcher.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.IO.IsolatedStorage.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.IO.MemoryMappedFiles.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.IO.Pipes.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.IO.UnmanagedMemoryStream.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Linq.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Linq.Expressions.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Linq.Parallel.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Linq.Queryable.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Net.Http.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Net.NameResolution.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Net.NetworkInformation.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Net.Ping.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Net.Primitives.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Net.Requests.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Net.Security.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Net.Sockets.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Net.WebHeaderCollection.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Net.WebSockets.Client.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Net.WebSockets.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.ObjectModel.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Reflection.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Reflection.Extensions.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Reflection.Primitives.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Resources.Reader.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Resources.ResourceManager.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Resources.Writer.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Runtime.CompilerServices.VisualC.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Runtime.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Runtime.Extensions.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Runtime.Handles.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Runtime.InteropServices.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Runtime.Numerics.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Runtime.Serialization.Formatters.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Runtime.Serialization.Json.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Runtime.Serialization.Primitives.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Runtime.Serialization.Xml.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Security.Claims.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Security.Cryptography.Algorithms.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Security.Cryptography.Csp.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Security.Cryptography.Encoding.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Security.Cryptography.Primitives.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Security.Cryptography.X509Certificates.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Security.Principal.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Security.SecureString.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Text.Encoding.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Text.Encoding.Extensions.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Text.RegularExpressions.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Threading.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Threading.Overlapped.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Threading.Tasks.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Threading.Tasks.Parallel.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Threading.Thread.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Threading.ThreadPool.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Threading.Timer.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.ValueTuple.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Xml.ReaderWriter.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Xml.XDocument.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Xml.XmlDocument.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Xml.XmlSerializer.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Xml.XPath.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Xml.XPath.XDocument.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.AspNetCore.Authentication.Core.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.AspNetCore.Authorization.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.AspNetCore.Http.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.AspNetCore.Http.Extensions.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.AspNetCore.Http.Features.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.AspNetCore.JsonPatch.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.AspNetCore.Mvc.Core.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.AspNetCore.Routing.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.AspNetCore.StaticFiles.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.AspNetCore.WebUtilities.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.Extensions.DependencyModel.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.Extensions.Localization.Abstractions.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.Extensions.Localization.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.Extensions.ObjectPool.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.Extensions.Options.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.Extensions.Primitives.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.Extensions.WebEncoders.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.Net.Http.Headers.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\Newtonsoft.Json.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\Swashbuckle.AspNetCore.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\Swashbuckle.AspNetCore.Swagger.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Buffers.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.ComponentModel.Annotations.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Text.Encodings.Web.dll
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.AspNetCore.Authentication.Core.xml
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.AspNetCore.Authorization.xml
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.AspNetCore.Http.xml
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.AspNetCore.Http.Extensions.xml
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.AspNetCore.Http.Features.xml
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.AspNetCore.JsonPatch.xml
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.AspNetCore.Mvc.Core.xml
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.AspNetCore.Routing.xml
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.AspNetCore.StaticFiles.xml
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.AspNetCore.WebUtilities.xml
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.Extensions.FileProviders.Embedded.xml
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.Extensions.Localization.xml
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.Extensions.Localization.Abstractions.xml
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.Extensions.ObjectPool.xml
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.Extensions.Options.xml
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.Extensions.Primitives.xml
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.Extensions.WebEncoders.xml
+E:\Visual Work 2\repos\FYP\FYP\bin\Microsoft.Net.Http.Headers.xml
+E:\Visual Work 2\repos\FYP\FYP\bin\Newtonsoft.Json.xml
+E:\Visual Work 2\repos\FYP\FYP\bin\Swashbuckle.AspNetCore.Swagger.xml
+E:\Visual Work 2\repos\FYP\FYP\bin\Swashbuckle.AspNetCore.SwaggerGen.xml
+E:\Visual Work 2\repos\FYP\FYP\bin\Swashbuckle.AspNetCore.SwaggerUI.xml
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Buffers.xml
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\Visual Work 2\repos\FYP\FYP\bin\System.Text.Encodings.Web.xml
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\FYP.dll.config
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\FYP.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\FYP.pdb
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\roslyn\csc.exe
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\roslyn\csc.exe.config
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\roslyn\csc.rsp
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\roslyn\csi.exe
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\roslyn\csi.exe.config
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\roslyn\csi.rsp
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\roslyn\System.AppContext.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\roslyn\System.Collections.Immutable.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\roslyn\System.Console.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\roslyn\System.IO.Compression.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\roslyn\System.IO.FileSystem.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\roslyn\System.IO.Pipes.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\roslyn\System.Reflection.Metadata.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\roslyn\System.Security.AccessControl.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\roslyn\System.Security.Claims.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\roslyn\System.ValueTuple.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\roslyn\System.Xml.XPath.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\roslyn\vbc.exe
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\roslyn\vbc.exe.config
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\roslyn\vbc.rsp
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\roslyn\VBCSCompiler.exe
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\roslyn\VBCSCompiler.exe.config
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.Win32.Primitives.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\netstandard.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.AppContext.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Collections.Concurrent.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Collections.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Collections.NonGeneric.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Collections.Specialized.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.ComponentModel.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.ComponentModel.EventBasedAsync.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.ComponentModel.Primitives.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.ComponentModel.TypeConverter.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Console.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Data.Common.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Diagnostics.Contracts.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Diagnostics.Debug.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Diagnostics.FileVersionInfo.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Diagnostics.Process.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Diagnostics.StackTrace.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Diagnostics.TextWriterTraceListener.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Diagnostics.Tools.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Diagnostics.TraceSource.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Diagnostics.Tracing.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Drawing.Primitives.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Dynamic.Runtime.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Globalization.Calendars.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Globalization.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Globalization.Extensions.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.IO.Compression.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.IO.Compression.ZipFile.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.IO.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.IO.FileSystem.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.IO.FileSystem.DriveInfo.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.IO.FileSystem.Primitives.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.IO.FileSystem.Watcher.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.IO.IsolatedStorage.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.IO.MemoryMappedFiles.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.IO.Pipes.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.IO.UnmanagedMemoryStream.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Linq.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Linq.Expressions.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Linq.Parallel.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Linq.Queryable.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Net.Http.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Net.NameResolution.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Net.NetworkInformation.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Net.Ping.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Net.Primitives.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Net.Requests.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Net.Security.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Net.Sockets.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Net.WebHeaderCollection.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Net.WebSockets.Client.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Net.WebSockets.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.ObjectModel.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Reflection.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Reflection.Extensions.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Reflection.Primitives.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Resources.Reader.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Resources.ResourceManager.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Resources.Writer.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Runtime.CompilerServices.VisualC.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Runtime.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Runtime.Extensions.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Runtime.Handles.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Runtime.InteropServices.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Runtime.Numerics.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Runtime.Serialization.Formatters.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Runtime.Serialization.Json.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Runtime.Serialization.Primitives.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Runtime.Serialization.Xml.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Security.Claims.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Security.Cryptography.Algorithms.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Security.Cryptography.Csp.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Security.Cryptography.Encoding.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Security.Cryptography.Primitives.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Security.Cryptography.X509Certificates.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Security.Principal.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Security.SecureString.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Text.Encoding.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Text.Encoding.Extensions.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Text.RegularExpressions.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Threading.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Threading.Overlapped.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Threading.Tasks.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Threading.Tasks.Parallel.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Threading.Thread.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Threading.ThreadPool.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Threading.Timer.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.ValueTuple.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Xml.ReaderWriter.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Xml.XDocument.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Xml.XmlDocument.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Xml.XmlSerializer.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Xml.XPath.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Xml.XPath.XDocument.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\EntityFramework.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\EntityFramework.SqlServer.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Authentication.Core.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Authorization.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Http.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Http.Extensions.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Http.Features.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.JsonPatch.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Mvc.Core.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Routing.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.StaticFiles.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.WebUtilities.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.Extensions.DependencyModel.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.Extensions.Localization.Abstractions.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.Extensions.Localization.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.Extensions.ObjectPool.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.Extensions.Options.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.Extensions.Primitives.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.Extensions.WebEncoders.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.Net.Http.Headers.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.Web.Infrastructure.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Newtonsoft.Json.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\PagedList.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\PagedList.Mvc.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Swashbuckle.AspNetCore.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Swashbuckle.AspNetCore.Swagger.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Buffers.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.ComponentModel.Annotations.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Text.Encodings.Web.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Web.Helpers.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Web.Mvc.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Web.Razor.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Web.Webpages.Deployment.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Web.Webpages.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Web.Webpages.Razor.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\EntityFramework.xml
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\EntityFramework.SqlServer.xml
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Authentication.Core.xml
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Authorization.xml
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Http.xml
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Http.Extensions.xml
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Http.Features.xml
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.JsonPatch.xml
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Mvc.Core.xml
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Routing.xml
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.StaticFiles.xml
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.WebUtilities.xml
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.Extensions.FileProviders.Embedded.xml
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.Extensions.Localization.xml
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.Extensions.Localization.Abstractions.xml
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.Extensions.ObjectPool.xml
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.Extensions.Options.xml
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.Extensions.Primitives.xml
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.Extensions.WebEncoders.xml
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.Net.Http.Headers.xml
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Newtonsoft.Json.xml
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\PagedList.xml
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\PagedList.Mvc.xml
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Swashbuckle.AspNetCore.Swagger.xml
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Swashbuckle.AspNetCore.SwaggerGen.xml
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Swashbuckle.AspNetCore.SwaggerUI.xml
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Buffers.xml
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Text.Encodings.Web.xml
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Web.Razor.xml
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Web.Webpages.xml
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Web.Webpages.Deployment.xml
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Web.Webpages.Razor.xml
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Web.Helpers.xml
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\System.Web.Mvc.xml
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\obj\Debug\FYP.csproj.CoreCompileInputs.cache
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\obj\Debug\FYP.csproj.CopyComplete
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\obj\Debug\FYP.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\obj\Debug\FYP.pdb
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\bin\GridMvc.dll
+E:\Visual Work 2\repos\Project of FYP\FYP\FYP\obj\Debug\FYP.csprojAssemblyReference.cache
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\FYP.dll.config
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\FYP.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\FYP.pdb
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\roslyn\csc.exe
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\roslyn\csc.exe.config
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\roslyn\csc.rsp
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\roslyn\csi.exe
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\roslyn\csi.exe.config
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\roslyn\csi.rsp
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\roslyn\System.AppContext.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\roslyn\System.Collections.Immutable.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\roslyn\System.Console.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\roslyn\System.IO.Compression.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\roslyn\System.IO.FileSystem.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\roslyn\System.IO.Pipes.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\roslyn\System.Reflection.Metadata.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\roslyn\System.Security.AccessControl.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\roslyn\System.Security.Claims.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\roslyn\System.ValueTuple.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\roslyn\System.Xml.XPath.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\roslyn\vbc.exe
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\roslyn\vbc.exe.config
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\roslyn\vbc.rsp
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\roslyn\VBCSCompiler.exe
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\roslyn\VBCSCompiler.exe.config
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.Win32.Primitives.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\netstandard.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.AppContext.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Collections.Concurrent.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Collections.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Collections.NonGeneric.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Collections.Specialized.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.ComponentModel.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.ComponentModel.EventBasedAsync.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.ComponentModel.Primitives.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.ComponentModel.TypeConverter.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Console.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Data.Common.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Diagnostics.Contracts.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Diagnostics.Debug.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Diagnostics.FileVersionInfo.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Diagnostics.Process.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Diagnostics.StackTrace.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Diagnostics.TextWriterTraceListener.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Diagnostics.Tools.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Diagnostics.TraceSource.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Diagnostics.Tracing.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Drawing.Primitives.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Dynamic.Runtime.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Globalization.Calendars.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Globalization.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Globalization.Extensions.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.IO.Compression.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.IO.Compression.ZipFile.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.IO.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.IO.FileSystem.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.IO.FileSystem.DriveInfo.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.IO.FileSystem.Primitives.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.IO.FileSystem.Watcher.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.IO.IsolatedStorage.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.IO.MemoryMappedFiles.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.IO.Pipes.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.IO.UnmanagedMemoryStream.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Linq.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Linq.Expressions.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Linq.Parallel.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Linq.Queryable.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Net.Http.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Net.NameResolution.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Net.NetworkInformation.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Net.Ping.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Net.Primitives.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Net.Requests.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Net.Security.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Net.Sockets.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Net.WebHeaderCollection.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Net.WebSockets.Client.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Net.WebSockets.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.ObjectModel.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Reflection.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Reflection.Extensions.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Reflection.Primitives.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Resources.Reader.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Resources.ResourceManager.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Resources.Writer.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Runtime.CompilerServices.VisualC.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Runtime.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Runtime.Extensions.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Runtime.Handles.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Runtime.InteropServices.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Runtime.Numerics.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Runtime.Serialization.Formatters.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Runtime.Serialization.Json.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Runtime.Serialization.Primitives.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Runtime.Serialization.Xml.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Security.Claims.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Security.Cryptography.Algorithms.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Security.Cryptography.Csp.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Security.Cryptography.Encoding.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Security.Cryptography.Primitives.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Security.Cryptography.X509Certificates.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Security.Principal.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Security.SecureString.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Text.Encoding.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Text.Encoding.Extensions.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Text.RegularExpressions.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Threading.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Threading.Overlapped.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Threading.Tasks.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Threading.Tasks.Parallel.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Threading.Thread.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Threading.ThreadPool.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Threading.Timer.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.ValueTuple.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Xml.ReaderWriter.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Xml.XDocument.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Xml.XmlDocument.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Xml.XmlSerializer.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Xml.XPath.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Xml.XPath.XDocument.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\EntityFramework.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\EntityFramework.SqlServer.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\GridMvc.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Authentication.Core.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Authorization.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Http.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Http.Extensions.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Http.Features.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.JsonPatch.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Mvc.Core.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Routing.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.StaticFiles.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.WebUtilities.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.Extensions.DependencyModel.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.Extensions.Localization.Abstractions.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.Extensions.Localization.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.Extensions.ObjectPool.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.Extensions.Options.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.Extensions.Primitives.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.Extensions.WebEncoders.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.Net.Http.Headers.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.Web.Infrastructure.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Newtonsoft.Json.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\PagedList.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\PagedList.Mvc.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Swashbuckle.AspNetCore.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Swashbuckle.AspNetCore.Swagger.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Buffers.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.ComponentModel.Annotations.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Text.Encodings.Web.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Web.Helpers.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Web.Mvc.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Web.Razor.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Web.Webpages.Deployment.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Web.Webpages.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Web.Webpages.Razor.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\EntityFramework.xml
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\EntityFramework.SqlServer.xml
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Authentication.Core.xml
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Authorization.xml
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Http.xml
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Http.Extensions.xml
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Http.Features.xml
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.JsonPatch.xml
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Mvc.Core.xml
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Routing.xml
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.StaticFiles.xml
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.AspNetCore.WebUtilities.xml
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.Extensions.FileProviders.Embedded.xml
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.Extensions.Localization.xml
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.Extensions.Localization.Abstractions.xml
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.Extensions.ObjectPool.xml
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.Extensions.Options.xml
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.Extensions.Primitives.xml
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.Extensions.WebEncoders.xml
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.Net.Http.Headers.xml
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Newtonsoft.Json.xml
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\PagedList.xml
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\PagedList.Mvc.xml
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Swashbuckle.AspNetCore.Swagger.xml
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Swashbuckle.AspNetCore.SwaggerGen.xml
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Swashbuckle.AspNetCore.SwaggerUI.xml
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Buffers.xml
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Text.Encodings.Web.xml
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Web.Razor.xml
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Web.Webpages.xml
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Web.Webpages.Deployment.xml
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Web.Webpages.Razor.xml
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Web.Helpers.xml
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\System.Web.Mvc.xml
+E:\Study\FYP\Project of FYP\FYP\FYP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Study\FYP\Project of FYP\FYP\FYP\obj\Debug\FYP.csprojAssemblyReference.cache
+E:\Study\FYP\Project of FYP\FYP\FYP\obj\Debug\FYP.csproj.CoreCompileInputs.cache
+E:\Study\FYP\Project of FYP\FYP\FYP\obj\Debug\FYP.csproj.CopyComplete
+E:\Study\FYP\Project of FYP\FYP\FYP\obj\Debug\FYP.dll
+E:\Study\FYP\Project of FYP\FYP\FYP\obj\Debug\FYP.pdb

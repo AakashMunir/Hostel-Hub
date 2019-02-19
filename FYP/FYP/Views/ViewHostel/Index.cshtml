@@ -1,0 +1,41 @@
+﻿@model IPagedList<FYP.Models.HostelModel>
+@{
+    ViewBag.Title = "Index";
+}
+@using PagedList.Mvc;
+@using PagedList;
+<div class="container">
+    <h2>Hostel's</h2>
+    @using (Html.BeginForm("Index", "ViewHostel", FormMethod.Get))
+    {
+        @Html.AntiForgeryToken()
+
+        <b>Search Option :  </b>@Html.RadioButton("option", "H_Near_University")<tex>Nearest University  </tex>
+        @Html.RadioButton("option", "H_Area")<tex>Area  </tex>
+        @Html.TextBox("Search")
+        <input type="submit" name="Submit" value="Search" />
+        <hr />
+    }
+        <div class="row">
+
+            
+                            @for (var i = 1; i < Model.Count; i++)
+                            {
+                                
+                                    <div class="col-md-4">
+                                        <img src="~/images/@Html.DisplayFor(m=>m[i].I_Name)" onclick="location.href='@Url.Action("Details", "ViewHostel", new { id = Model[i].H_Id })'" width="250" height="250" style="border-radius:8px;" />
+                                        <h3>@Html.DisplayFor(m => m[i].H_Name)</h3>
+                                        <p>@Html.DisplayFor(m => m[i].H_Address)</p>
+                                        <label>Hostel Rating Out Of 5:</label><p>@Html.DisplayFor(m =>m[i].Rating)</p>
+                                        <button type="button" onclick="location.href='@Url.Action("Create", "HostelBooking", new { id = Model[i].H_Id })'" style="border-radius:8px;   color:black; border:2px solid #008CBA; background-color:white">Hostel Booking</button>
+                                        <hr />
+                                    </div>
+                                
+
+                            }
+        </div>
+    @Html.PagedListPager(Model, i => Url.Action("Index", "ViewHostel", new { i, search = Request.QueryString["search"] }))
+</div>
+
+
+

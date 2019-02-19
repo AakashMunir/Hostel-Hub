@@ -1,0 +1,51 @@
+﻿@model IEnumerable<FYP.Models.tbl_Hostel_Detail>
+
+@{
+    ViewBag.Title = "Index";
+}
+<div class="container">
+    <h2>Hostel Creation</h2>
+
+    <p>
+        <button type="button" onclick="location.href='@Url.Action("Create", "CreateHostel")'" style="border-radius:8px;   color:black; border:2px solid #008CBA; background-color:white">Create Hostel</button>
+
+    </p>
+    <table class="table">
+
+        <tr>
+            
+            <th>
+                @Html.DisplayNameFor(model => model.H_Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.H_Address)
+            </th>
+
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                
+                <td>
+                    @Html.DisplayFor(modelItem => item.H_Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.H_Address)
+                </td>
+
+                <td>
+                    <button type="button" onclick="location.href='@Url.Action("Edit", "CreateHostel",new { id = item.H_Id})'" style="border-radius:8px;   color:black; border:2px solid #008CBA; background-color:white">Edit</button>
+                    |
+                    <button type="button" onclick="location.href='@Url.Action("Create", "Images",new { id = item.H_Id})'" style="border-radius:8px;   color:black; border:2px solid #008CBA; background-color:white">Upload Hostel Images</button>
+                    @*|
+                    <button type="button" onclick="location.href='@Url.Action("Delete", "CreateHostel",new { id = item.H_Id})'" style="border-radius:8px;   color:black; border:2px solid #008CBA; background-color:white">Delete Hostel</button>*@
+
+                </td>
+            </tr>
+        }
+
+    </table>
+</div>
+
